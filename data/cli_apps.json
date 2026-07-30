@@ -1,0 +1,32 @@
+[
+  {
+    "name": "pandoc",
+    "description": "Universal document converter",
+    "category": "academia",
+    "install": "brew install pandoc"
+  },
+  {
+    "name": "wego",
+    "description": "Weather app for terminal",
+    "category": "weather",
+    "install": "go install github.com/schachmat/wego@latest"
+  },
+  {
+    "name": "w3m",
+    "description": "Text-based web browser",
+    "category": "browser",
+    "install": "apt install w3m"
+  },
+  {
+    "name": "jq",
+    "description": "JSON processor",
+    "category": "utilities",
+    "install": "brew install jq"
+  },
+  {
+    "name": "htop",
+    "description": "Interactive process viewer",
+    "category": "system",
+    "install": "apt install htop"
+  }
+]
